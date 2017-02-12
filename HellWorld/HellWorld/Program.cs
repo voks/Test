@@ -11,6 +11,7 @@ namespace HellWorld
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!!");
+            Console.WriteLine("Test2");
             Console.Read();
         }
     }

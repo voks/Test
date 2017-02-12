@@ -1,0 +1,6 @@
+C:\Users\Nina\Documents\GitHub\Test\HellWorld\HellWorld\bin\Debug\HellWorld.exe.config
+C:\Users\Nina\Documents\GitHub\Test\HellWorld\HellWorld\obj\Debug\HellWorld.csprojResolveAssemblyReference.cache
+C:\Users\Nina\Documents\GitHub\Test\HellWorld\HellWorld\bin\Debug\HellWorld.exe
+C:\Users\Nina\Documents\GitHub\Test\HellWorld\HellWorld\bin\Debug\HellWorld.pdb
+C:\Users\Nina\Documents\GitHub\Test\HellWorld\HellWorld\obj\Debug\HellWorld.exe
+C:\Users\Nina\Documents\GitHub\Test\HellWorld\HellWorld\obj\Debug\HellWorld.pdb
